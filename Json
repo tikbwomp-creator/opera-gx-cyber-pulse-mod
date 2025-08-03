@@ -1,0 +1,11 @@
+{
+  "name": "Cyber Pulse",
+  "description": "A neon-themed mod with custom tab sound and background.",
+  "version": "1.0",
+  "author": "Bryce",
+  "mod": {
+    "scripts": ["mod.js"],
+    "styles": ["mod.css"],
+    "assets": ["assets/background.jpg", "assets/tab-sound.mp3"]
+  }
+}
