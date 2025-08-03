@@ -1,0 +1,6 @@
+// Play sound when a new tab is opened
+const tabSound = new Audio("assets/tab-sound.mp3");
+
+window.addEventListener("DOMContentLoaded", () => {
+  tabSound.play().catch(e => console.warn("Sound playback failed:", e));
+});
