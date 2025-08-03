@@ -1,0 +1,7 @@
+cyber-pulse-mod/
+├── manifest.json
+├── mod.js
+├── mod.css
+├── assets/
+│   ├── background.jpg
+│   └── tab-sound.mp3
